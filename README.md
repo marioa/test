@@ -8,7 +8,7 @@ Adding an image:
 
 ## Mermaid diagrams
 
-[Mermaid diagrams](https://github.com/knsv/mermaid/blob/master/README.md) appear to be supported in GitLab markdown but not GitHub markdown:
+[Mermaid diagrams](https://github.com/knsv/mermaid/blob/master/README.md) now supported in GitHub markdown:
 
 ```mermaid
 graph TD;
@@ -17,3 +17,10 @@ graph TD;
     B-->D;
     C-->D;
 ```
+
+
+
+<table>
+  <tr><td>col 1</td><td>col 2</td></tr>
+</table>
+
