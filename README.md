@@ -18,5 +18,8 @@ graph TD;
     C-->D;
 ```
 
+## Render maths
+
+$Z(t)$
 
 
